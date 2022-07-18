@@ -1,6 +1,6 @@
 section {
 	width: 800px;
-	margin: 100px auto;
+	margin: 50px auto;
 }
 section h1,
 section p {
@@ -13,4 +13,14 @@ section h1 {
 }
 section p {
 	font: 16px 'Open Sans';
+}
+.gal {
+	position: absolute;
+	right: 460px;
+	top: 160px;
+}
+.rob {
+	position: absolute;
+	right: 600px;
+	top: 280px;
 }
